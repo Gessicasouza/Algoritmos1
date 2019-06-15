@@ -1,0 +1,30 @@
+package br.com.exercicios;
+
+public class PersonagensMarvel {
+
+	/*Faça um programa que receba do usuário o nome de personagens da Marvel até que
+	 * o nome Homem de Ferro seja lido. Todos devem ser inseridos em um ArrayList e
+	 * depois exibidos na tela um abaixo do outro.
+	 *Adapte o exercício anterior para que o mesmo, 
+	 *após receber um nome, exibir as informações na tela e 
+	 *apresente um menu onde o usuário possa escolher entre as seguintes operações:
+	 *
+     *Digite um nome de personagem para verificar se o mesmo já está cadastrado.
+     *Digite o nome do personagem que deseja retirar da lista.
+     *Digite o nome do personagem que deseja alterar o nome.  */
+
+	
+	
+	private String nome; 
+	
+	
+	public String getNome() {
+		return nome;
+	}
+	
+	
+	
+	
+	
+	
+

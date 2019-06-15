@@ -1,0 +1,22 @@
+package br.com.exercicios;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class PersonagensTeste {
+
+	public static void main(String[] args) {
+		
+    Scanner Input = new Scanner(System.in);	
+    
+    List<PersonagensTeste> arrayList = new ArrayList<PersonagensTeste >();
+	arrayList.add();
+	arrayList.add();
+
+	for (PersonagensMarvel pessoa : arrayList) {
+		System.out.println(pessoa);
+	}
+	
+	}
+
+}

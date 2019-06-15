@@ -1,0 +1,41 @@
+CLIENTE DO BANCO : X;
+
+usuário:
+nome Ao informa o nome guarda á informação;    
+                a idade entre 25 e 60 Anos; se a idade do usuário estiver entre á idade requerida:SIM 
+                                                                                   se não estiver:Não
+Renda mínima:R$1.500,00;
+                 se á renda for maior que o valor da renda mínima :SIM
+                           se o valor for menor que á renda mínima:NÃO 
+
+valor mínimo de emprestimo:R$1.000,00;
+                  se o usuário querer um emprestimo com um valor menor do valor mínimo:NÃO;
+                  se o usuário querer um emprestimo do valor mínimo:SIM; 
+
+valor Maximo de empréstimo:10 x á renda do usuário;
+                  se o usuário querer um emprestimo com um valor maximo do valor maximo:NÃO;
+
+
+Um baralho de 52 cartas tem 4 símbolos ( Espadas, Copas, Ouros e Paus) diferentes. Cada um desses símbolos representa um naipe. Cada naipe possui 13 cartas (A,K,Q,J,10,9,8,7,6,5,4,3,3) que se repetem e portanto existem 4 Áses, 4 Reis, 4 Damas, 4 Valetes
+
+BARALHO: Usuário quer encontrar uma Carta informada pelo usuário;
+    
+informe uma carta?
+Carta X informada pelo usuário;
+
+baralho de 52 cartas diferentes;
+           52 cartas usuário informou 1 uma;
+           quando o usuário informa á carta devolver carta ao baralho e embaralhar as cartas; 
+                  separar as cartas uma por uma e informa ao usuário para escolher uma carta;
+                                 se for á carta informada pelo usuário mostra para o usuário;
+                                                              se não for á carta fim do jogo; 
+
+
+
+
+
+
+
+                                           
+
+
